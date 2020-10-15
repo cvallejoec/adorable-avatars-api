@@ -1,0 +1,19 @@
+{
+  "name": "adorable-avatars-api",
+  "version": "1.0.0",
+  "description": "Random avatars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "avatar"
+  ],
+  "author": "Carlos Vallejo",
+  "license": "MIT",
+  "dependencies": {
+    "adorable-avatars": "^0.4.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
